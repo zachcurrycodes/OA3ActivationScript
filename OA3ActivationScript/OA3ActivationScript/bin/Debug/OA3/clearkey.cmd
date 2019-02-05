@@ -1,0 +1,1 @@
+afuwinx64.exe /OAD

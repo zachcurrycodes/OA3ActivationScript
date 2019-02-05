@@ -1,0 +1,149 @@
+d:\cjohnson\documents\visual studio 2015\Projects\OA3ActivationScript\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe.config
+d:\cjohnson\documents\visual studio 2015\Projects\OA3ActivationScript\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe
+d:\cjohnson\documents\visual studio 2015\Projects\OA3ActivationScript\OA3ActivationScript\bin\Debug\OA3ActivationScript.pdb
+d:\cjohnson\documents\visual studio 2015\Projects\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.csprojResolveAssemblyReference.cache
+d:\cjohnson\documents\visual studio 2015\Projects\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.Properties.Resources.resources
+d:\cjohnson\documents\visual studio 2015\Projects\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.GenerateResource.Cache
+d:\cjohnson\documents\visual studio 2015\Projects\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.exe
+d:\cjohnson\documents\visual studio 2015\Projects\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.pdb
+d:\cjohnson\documents\visual studio 2015\Projects\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.frmMain.resources
+D:\cjohnson\Documents\Visual Studio 2015\Projects\OA3ActivationScript\OA3ActivationScript\bin\Debug\NLog.config
+D:\cjohnson\Documents\Visual Studio 2015\Projects\OA3ActivationScript\OA3ActivationScript\bin\Debug\NLog.dll
+D:\cjohnson\Documents\Visual Studio 2015\Projects\OA3ActivationScript\OA3ActivationScript\bin\Debug\NLog.xml
+C:\Users\zcurry\Documents\VS Working\OA3ActivationScript\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe.config
+C:\Users\zcurry\Documents\VS Working\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.exe
+C:\Users\zcurry\Documents\VS Working\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.pdb
+C:\Users\zcurry\Documents\VS Working\OA3ActivationScript\OA3ActivationScript\bin\Debug\NLog.config
+C:\Users\zcurry\Documents\VS Working\OA3ActivationScript\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe
+C:\Users\zcurry\Documents\VS Working\OA3ActivationScript\OA3ActivationScript\bin\Debug\OA3ActivationScript.pdb
+C:\Users\zcurry\Documents\VS Working\OA3ActivationScript\OA3ActivationScript\bin\Debug\NLog.dll
+C:\Users\zcurry\Documents\VS Working\OA3ActivationScript\OA3ActivationScript\bin\Debug\NLog.xml
+C:\Users\zcurry\Documents\VS Working\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.csprojResolveAssemblyReference.cache
+C:\Users\zcurry\Documents\VS Working\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.frmMain.resources
+C:\Users\zcurry\Documents\VS Working\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.Properties.Resources.resources
+C:\Users\zcurry\Documents\VS Working\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.GenerateResource.Cache
+C:\Users\zcurry\Documents\VS Working\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.CoreCompileInputs.cache
+E:\zz\OA3ActivationScript\bin\Debug\NLog.config
+E:\zz\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe.config
+E:\zz\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe
+E:\zz\OA3ActivationScript\bin\Debug\OA3ActivationScript.pdb
+E:\zz\OA3ActivationScript\bin\Debug\NLog.xml
+E:\zz\OA3ActivationScript\obj\Debug\OA3ActivationScript.csprojResolveAssemblyReference.cache
+E:\zz\OA3ActivationScript\obj\Debug\OA3ActivationScript.frmMain.resources
+E:\zz\OA3ActivationScript\obj\Debug\OA3ActivationScript.Properties.Resources.resources
+E:\zz\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.GenerateResource.Cache
+E:\zz\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.CoreCompileInputs.cache
+E:\zz\OA3ActivationScript\obj\Debug\OA3ActivationScript.exe
+E:\zz\OA3ActivationScript\obj\Debug\OA3ActivationScript.pdb
+G:\zz\OA3ActivationScript\bin\Debug\NLog.config
+G:\zz\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe.config
+G:\zz\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe
+G:\zz\OA3ActivationScript\bin\Debug\OA3ActivationScript.pdb
+G:\zz\OA3ActivationScript\bin\Debug\NLog.xml
+G:\zz\OA3ActivationScript\obj\Debug\OA3ActivationScript.csprojResolveAssemblyReference.cache
+G:\zz\OA3ActivationScript\obj\Debug\OA3ActivationScript.frmMain.resources
+G:\zz\OA3ActivationScript\obj\Debug\OA3ActivationScript.Properties.Resources.resources
+G:\zz\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.GenerateResource.Cache
+G:\zz\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.CoreCompileInputs.cache
+G:\zz\OA3ActivationScript\obj\Debug\OA3ActivationScript.exe
+G:\zz\OA3ActivationScript\obj\Debug\OA3ActivationScript.pdb
+E:\zz\OA3ActivationScript\bin\Debug\NLog.dll
+G:\zz\OA3ActivationScript\bin\Debug\NLog.dll
+G:\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.csprojResolveAssemblyReference.cache
+G:\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.frmMain.resources
+G:\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.Properties.Resources.resources
+G:\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.GenerateResource.Cache
+G:\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.CoreCompileInputs.cache
+G:\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.exe
+G:\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.pdb
+G:\OA3ActivationScript\OA3ActivationScript\bin\Debug\NLog.config
+G:\OA3ActivationScript\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe.config
+G:\OA3ActivationScript\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe
+G:\OA3ActivationScript\OA3ActivationScript\bin\Debug\OA3ActivationScript.pdb
+G:\OA3ActivationScript\OA3ActivationScript\bin\Debug\NLog.xml
+E:\OA3ActivationScript\OA3ActivationScript\bin\Debug\NLog.config
+E:\OA3ActivationScript\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe.config
+E:\OA3ActivationScript\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe
+E:\OA3ActivationScript\OA3ActivationScript\bin\Debug\OA3ActivationScript.pdb
+E:\OA3ActivationScript\OA3ActivationScript\bin\Debug\NLog.dll
+E:\OA3ActivationScript\OA3ActivationScript\bin\Debug\NLog.xml
+E:\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.csprojResolveAssemblyReference.cache
+E:\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.frmMain.resources
+E:\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.Properties.Resources.resources
+E:\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.GenerateResource.Cache
+E:\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.CoreCompileInputs.cache
+E:\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.exe
+E:\OA3ActivationScript\OA3ActivationScript\obj\Debug\OA3ActivationScript.pdb
+G:\OA3ActivationScript\OA3ActivationScript\bin\Debug\NLog.dll
+C:\Users\zcurry\Desktop\ee\OA3ActivationScript\bin\Debug\NLog.config
+C:\Users\zcurry\Desktop\ee\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe.config
+C:\Users\zcurry\Desktop\ee\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe
+C:\Users\zcurry\Desktop\ee\OA3ActivationScript\bin\Debug\OA3ActivationScript.pdb
+C:\Users\zcurry\Desktop\ee\OA3ActivationScript\bin\Debug\NLog.xml
+C:\Users\zcurry\Desktop\ee\OA3ActivationScript\obj\Debug\OA3ActivationScript.csprojResolveAssemblyReference.cache
+C:\Users\zcurry\Desktop\ee\OA3ActivationScript\obj\Debug\OA3ActivationScript.frmMain.resources
+C:\Users\zcurry\Desktop\ee\OA3ActivationScript\obj\Debug\OA3ActivationScript.Properties.Resources.resources
+C:\Users\zcurry\Desktop\ee\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.GenerateResource.Cache
+C:\Users\zcurry\Desktop\ee\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.CoreCompileInputs.cache
+C:\Users\zcurry\Desktop\ee\OA3ActivationScript\obj\Debug\OA3ActivationScript.exe
+C:\Users\zcurry\Desktop\ee\OA3ActivationScript\obj\Debug\OA3ActivationScript.pdb
+E:\OA3.v1\OA3ActivationScript\bin\Debug\NLog.config
+E:\OA3.v1\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe.config
+E:\OA3.v1\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe
+E:\OA3.v1\OA3ActivationScript\bin\Debug\OA3ActivationScript.pdb
+E:\OA3.v1\OA3ActivationScript\bin\Debug\NLog.xml
+E:\OA3.v1\OA3ActivationScript\obj\Debug\OA3ActivationScript.csprojResolveAssemblyReference.cache
+E:\OA3.v1\OA3ActivationScript\obj\Debug\OA3ActivationScript.frmMain.resources
+E:\OA3.v1\OA3ActivationScript\obj\Debug\OA3ActivationScript.Properties.Resources.resources
+E:\OA3.v1\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.GenerateResource.Cache
+E:\OA3.v1\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.CoreCompileInputs.cache
+E:\OA3.v1\OA3ActivationScript\obj\Debug\OA3ActivationScript.exe
+E:\OA3.v1\OA3ActivationScript\obj\Debug\OA3ActivationScript.pdb
+F:\OA3.v1\OA3ActivationScript\bin\Debug\NLog.config
+F:\OA3.v1\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe.config
+F:\OA3.v1\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe
+F:\OA3.v1\OA3ActivationScript\bin\Debug\OA3ActivationScript.pdb
+F:\OA3.v1\OA3ActivationScript\bin\Debug\NLog.xml
+F:\OA3.v1\OA3ActivationScript\obj\Debug\OA3ActivationScript.csprojResolveAssemblyReference.cache
+F:\OA3.v1\OA3ActivationScript\obj\Debug\OA3ActivationScript.frmMain.resources
+F:\OA3.v1\OA3ActivationScript\obj\Debug\OA3ActivationScript.Properties.Resources.resources
+F:\OA3.v1\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.GenerateResource.Cache
+F:\OA3.v1\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.CoreCompileInputs.cache
+F:\OA3.v1\OA3ActivationScript\obj\Debug\OA3ActivationScript.exe
+F:\OA3.v1\OA3ActivationScript\obj\Debug\OA3ActivationScript.pdb
+\\zeus\Add_Software\_RunOA3\OA3ActivationScript\bin\Debug\NLog.config
+\\zeus\Add_Software\_RunOA3\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe.config
+\\zeus\Add_Software\_RunOA3\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe
+\\zeus\Add_Software\_RunOA3\OA3ActivationScript\bin\Debug\OA3ActivationScript.pdb
+\\zeus\Add_Software\_RunOA3\OA3ActivationScript\bin\Debug\NLog.xml
+\\zeus\Add_Software\_RunOA3\OA3ActivationScript\obj\Debug\OA3ActivationScript.csprojResolveAssemblyReference.cache
+\\zeus\Add_Software\_RunOA3\OA3ActivationScript\obj\Debug\OA3ActivationScript.frmMain.resources
+\\zeus\Add_Software\_RunOA3\OA3ActivationScript\obj\Debug\OA3ActivationScript.Properties.Resources.resources
+\\zeus\Add_Software\_RunOA3\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.GenerateResource.Cache
+\\zeus\Add_Software\_RunOA3\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.CoreCompileInputs.cache
+\\zeus\Add_Software\_RunOA3\OA3ActivationScript\obj\Debug\OA3ActivationScript.exe
+\\zeus\Add_Software\_RunOA3\OA3ActivationScript\obj\Debug\OA3ActivationScript.pdb
+C:\Users\zcurry\Desktop\Working 3-6-2018\_RunOA3\OA3ActivationScript\bin\Debug\NLog.config
+C:\Users\zcurry\Desktop\Working 3-6-2018\_RunOA3\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe.config
+C:\Users\zcurry\Desktop\Working 3-6-2018\_RunOA3\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe
+C:\Users\zcurry\Desktop\Working 3-6-2018\_RunOA3\OA3ActivationScript\bin\Debug\OA3ActivationScript.pdb
+C:\Users\zcurry\Desktop\Working 3-6-2018\_RunOA3\OA3ActivationScript\bin\Debug\NLog.xml
+C:\Users\zcurry\Desktop\Working 3-6-2018\_RunOA3\OA3ActivationScript\obj\Debug\OA3ActivationScript.csprojResolveAssemblyReference.cache
+C:\Users\zcurry\Desktop\Working 3-6-2018\_RunOA3\OA3ActivationScript\obj\Debug\OA3ActivationScript.frmMain.resources
+C:\Users\zcurry\Desktop\Working 3-6-2018\_RunOA3\OA3ActivationScript\obj\Debug\OA3ActivationScript.Properties.Resources.resources
+C:\Users\zcurry\Desktop\Working 3-6-2018\_RunOA3\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.GenerateResource.Cache
+C:\Users\zcurry\Desktop\Working 3-6-2018\_RunOA3\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.CoreCompileInputs.cache
+C:\Users\zcurry\Desktop\Working 3-6-2018\_RunOA3\OA3ActivationScript\obj\Debug\OA3ActivationScript.exe
+C:\Users\zcurry\Desktop\Working 3-6-2018\_RunOA3\OA3ActivationScript\obj\Debug\OA3ActivationScript.pdb
+C:\Users\zcurry\Documents\VS Working\vs-working\02 OA3ActivationScript\03 Development\v2b 06252018\current\OA3ActivationScript\bin\Debug\NLog.config
+C:\Users\zcurry\Documents\VS Working\vs-working\02 OA3ActivationScript\03 Development\v2b 06252018\current\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe.config
+C:\Users\zcurry\Documents\VS Working\vs-working\02 OA3ActivationScript\03 Development\v2b 06252018\current\OA3ActivationScript\bin\Debug\OA3ActivationScript.exe
+C:\Users\zcurry\Documents\VS Working\vs-working\02 OA3ActivationScript\03 Development\v2b 06252018\current\OA3ActivationScript\bin\Debug\OA3ActivationScript.pdb
+C:\Users\zcurry\Documents\VS Working\vs-working\02 OA3ActivationScript\03 Development\v2b 06252018\current\OA3ActivationScript\bin\Debug\NLog.xml
+C:\Users\zcurry\Documents\VS Working\vs-working\02 OA3ActivationScript\03 Development\v2b 06252018\current\OA3ActivationScript\obj\Debug\OA3ActivationScript.csprojResolveAssemblyReference.cache
+C:\Users\zcurry\Documents\VS Working\vs-working\02 OA3ActivationScript\03 Development\v2b 06252018\current\OA3ActivationScript\obj\Debug\OA3ActivationScript.frmMain.resources
+C:\Users\zcurry\Documents\VS Working\vs-working\02 OA3ActivationScript\03 Development\v2b 06252018\current\OA3ActivationScript\obj\Debug\OA3ActivationScript.Properties.Resources.resources
+C:\Users\zcurry\Documents\VS Working\vs-working\02 OA3ActivationScript\03 Development\v2b 06252018\current\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.GenerateResource.Cache
+C:\Users\zcurry\Documents\VS Working\vs-working\02 OA3ActivationScript\03 Development\v2b 06252018\current\OA3ActivationScript\obj\Debug\OA3ActivationScript.csproj.CoreCompileInputs.cache
+C:\Users\zcurry\Documents\VS Working\vs-working\02 OA3ActivationScript\03 Development\v2b 06252018\current\OA3ActivationScript\obj\Debug\OA3ActivationScript.exe
+C:\Users\zcurry\Documents\VS Working\vs-working\02 OA3ActivationScript\03 Development\v2b 06252018\current\OA3ActivationScript\obj\Debug\OA3ActivationScript.pdb
